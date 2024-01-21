@@ -17,4 +17,5 @@ Softwares Used:
 Libraries Used: 
 - streamlit
 - numpy
-- 
+- pickle
+- requests 
