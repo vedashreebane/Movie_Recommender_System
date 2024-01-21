@@ -22,3 +22,7 @@ Libraries Used:
 - pandas
 - ast
 - nltk
+
+API Used: tmbd api
+
+Dataset Link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
