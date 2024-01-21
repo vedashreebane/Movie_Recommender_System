@@ -18,4 +18,7 @@ Libraries Used:
 - streamlit
 - numpy
 - pickle
-- requests 
+- requests
+- pandas
+- ast
+- nltk
